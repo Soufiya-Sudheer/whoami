@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soufiya</h1>
-<h3 align="center">security researcher at technovalley software india private limited </h3>
+<h3 align="center">Security researcher at TECHNOVALLEY SOFTWARE PRIVATE LIMITED </h3>
 
-- 🌱 I’m currently learning **web application pentesting,bug researcher**
+- 🌱 I’m currently learning **Web Application Pentesting,Bug Researcher**
 
 - 📫 How to reach me **fiya242000@gmail.com**
 
