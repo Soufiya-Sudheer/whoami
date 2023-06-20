@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soufiya</h1>
-<h3 align="center">Security researcher at TECHNOVALLEY SOFTWARE PRIVATE LIMITED </h3>
+<h3 align="center">Security Researcher at Technovalley Software India Private Limited </h3>
 
 - 🌱 I’m currently learning **Web Application Pentesting,Bug Researcher**
 
